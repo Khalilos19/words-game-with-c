@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1700396562 source:c:\users\khalil\documents\codeblocks\td6\projet asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1701804324 source:c:\users\khalil\documents\codeblocks\projet asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
