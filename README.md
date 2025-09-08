@@ -1,11 +1,5 @@
 # 🕹️ Word Search Game (C Language)
 
-## 👤 Author
-- Mohamed Khalil Nafati  
-- Class: 1LNIG5  
-
----
-
 ## 📝 Project Overview
 This project is a **word search game implemented in C**, which allows users to practice their word-finding skills in a fun and interactive way. The game offers several modes:  
 
@@ -35,6 +29,9 @@ The game selects words based on user-defined criteria such as word length and al
 - Total allowed time = `t * t`
 
 - <img width="1039" height="396" alt="image" src="https://github.com/user-attachments/assets/361ed403-a60b-4341-ab49-97fa5fafbfa4" />
+
+- <img width="828" height="406" alt="image" src="https://github.com/user-attachments/assets/31d0ebde-c6d1-47f2-9e1d-df02e49c6628" />
+
 
 
 ### 3. Two-player mode
@@ -97,15 +94,12 @@ To improve:
 
 ---
 
-## 📚 Resources
+## 📚 Resources may helps you
 - [YouTube Tutorial 1](https://www.youtube.com/watch?v=2ybLD6_2gKM)  
 - [YouTube Tutorial 2](https://www.youtube.com/watch?v=FvWvI0i8vkE)  
-- [Stack Overflow](https://stackoverflow.com)  
-- [ChatGPT](https://chat.openai.com) (for syntax corrections)  
-
 ---
 
 ## ⚡ How to Run
-1. Compile the program using GCC:  
-```bash
-gcc word_search_game.c -o word_search
+1. install CodeBlocks
+2. **Compile the program using GCC**
+3. Have fun :)
